@@ -3,7 +3,7 @@
 # Version: 0.1
 # Description:This script is used create a kvm using VM-builder. Follow the link for understanding : https://www.howtoforge.com/creating-virtual-machines-for-xen-kvm-vmware-workstation-6-vmware-server-with-vmbuilder-on-ubuntu-8.10-p2
 
-#!bin/bash 
+#!/bin/bash 
 
 # Name of KVM you want to build
 VM_NAME=python-dev
