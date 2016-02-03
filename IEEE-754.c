@@ -4,7 +4,7 @@
  |      Author:		Ahmer Malik
  |     	Language:  	C
  | 
- |  	Company:  	Techknox Systems
+ |  
  |     	
  |
  +-----------------------------------------------------------------------------
